@@ -36,10 +36,6 @@ content:
         type: string
         label: Layout (Ne pas toucher sauf si vous savez ce que vous faites!)
         default: page
-      - name: permalink
-        label: Lien de la page
-        type: string
-        pattern: ^\/?[a-zA-Z0-9.-]$
       - name: body
         label: Body
         type: rich-text
@@ -55,10 +51,6 @@ content:
         type: string
         label: Layout (Ne pas toucher sauf si vous savez ce que vous faites!)
         default: page
-      - name: permalink
-        label: Lien de la page
-        type: string
-        pattern: ^\/?[a-zA-Z0-9.-]$
       - name: body
         label: Body
         type: rich-text
