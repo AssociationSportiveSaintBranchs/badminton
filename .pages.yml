@@ -43,6 +43,25 @@ content:
       - name: body
         label: Body
         type: rich-text
+  - name: presentation
+    label: Présentation du club
+    path: presentation.md
+    type: file
+    fields:
+      - name: title
+        label: Titre de la page
+        type: string
+      - name: layout
+        type: string
+        label: Layout (Ne pas toucher sauf si vous savez ce que vous faites!)
+        default: page
+      - name: permalink
+        label: Lien de la page
+        type: string
+        pattern: ^\/?[a-zA-Z0-9.-]$
+      - name: body
+        label: Body
+        type: rich-text
   - name: config
     label: Jekyll config
     path: _config.yml
