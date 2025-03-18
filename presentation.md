@@ -4,11 +4,11 @@ layout: page
 ---
 # La section badminton de l'A.S. Saint Branchs
 
-Histoire du club => à écrire par Anne
+# Histoire du club
 
-(coordonnées du club ou non si on les met sur la page d’accueil ?)
+Anne, à toi de remplir ici !
 
-Qui sommes-nous ? (le bureau)
+# le bureau
 
 Présidente : Anne Perroit
 
@@ -17,5 +17,3 @@ Vice-Président : Florian Roulet
 Trésorier : Vivien Le Gal
 
 Secrétaire : Blandine Hue
-
-Les futurs projets (ex : tournoi, nouveaux créneaux d’entraînements ou autres) => à écrire selon ce qui sera acté par les membres du bureau du club.
