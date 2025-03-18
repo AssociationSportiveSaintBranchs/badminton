@@ -3,6 +3,7 @@ published: true
 layout: post
 date: 2025-03-16
 title: TDJ Joué les Tours
+category: event
 ---
 
 Les cadets et juniors ont joué aujourd'hui au Tdj :

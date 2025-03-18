@@ -3,6 +3,7 @@ published: true
 layout: post
 date: 2025-01-15
 title: test vide
+category: event
 ---
 
 blabla

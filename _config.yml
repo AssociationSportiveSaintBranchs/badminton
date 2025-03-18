@@ -36,7 +36,6 @@ header_pages:
   - presentation.md
   - pricesAndSubscription.md
   - events.md
-  - about.markdown
 
 collections:
   events:
@@ -45,6 +44,9 @@ collections:
 
 site:
   future: true
+  category:
+    - event
+    - post
 
 # Exclude from processing.
 # The following items will not be processed, by default.

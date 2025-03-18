@@ -3,6 +3,7 @@ published: true
 layout: post
 date: 2025-05-17
 title: Tournoi vétéran badminton Saint Branchs
+category: event
 ---
 
 Rejoignez nous pour notre second tournoi vétéran Saint Branchois les 17 et 18 Mai
