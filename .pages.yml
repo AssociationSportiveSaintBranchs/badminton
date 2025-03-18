@@ -24,9 +24,9 @@ content:
       - name: body
         label: Body
         type: rich-text
-  - name: subscribe
-    label: Les inscriptions
-    path: subscribe.md
+  - name: pricesAndSubscription
+    label: Tarifs et inscriptions
+    path: pricesAndSubscription.md
     type: file
     fields:
       - name: title
