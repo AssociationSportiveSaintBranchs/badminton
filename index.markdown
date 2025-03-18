@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Retrouvez nous sur nos réseaux sociaux
 <div class="social-links">
   {%- include social.html -%}
 </div>
