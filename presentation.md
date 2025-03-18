@@ -12,9 +12,9 @@ Qui sommes-nous ? (le bureau)
 
 Présidente : Anne Perroit
 
-Vice-Président : Florian + nom
+Vice-Président : Florian Roulet
 
-Trésorier : Vivien + nom
+Trésorier : Vivien Le Gal
 
 Secrétaire : Blandine Hue
 

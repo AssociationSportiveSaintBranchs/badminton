@@ -41,6 +41,10 @@ header_pages:
 collections:
   events:
     output: true
+    permalink: /:collection/:name
+
+site:
+  future: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
