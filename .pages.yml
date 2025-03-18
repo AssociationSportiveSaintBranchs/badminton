@@ -32,6 +32,10 @@ content:
       - name: title
         label: Titre de la page
         type: string
+      - name: layout
+        type: string
+        label: Layout (Ne pas toucher sauf si vous savez ce que vous faites!)
+        default: page
       - name: permalink
         label: Lien de la page
         type: string
