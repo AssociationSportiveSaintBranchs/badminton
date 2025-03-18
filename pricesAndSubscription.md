@@ -18,9 +18,9 @@ Les volants en plastiques sont fournis sur les créneaux et nous possédons que
 
 Modes de paiement : Carte bancaire sur le site Poona ; Chèque bancaire ; Espèces (à remettre au dirigeant) ; Dispositifs pass sport ou Yep’s
 
-Pour les nouveaux adhérents (mettre lien)
+Pour les nouveaux adhérents : [https://adherer.myffbad.fr/ASSB37](https://adherer.myffbad.fr/ASSB37)
 
-Pour les renouvellements d’adhésion (mettre lien)
+Pour les renouvellements d’adhésion : Connectez-vous sur [https://www.myffbad.fr/connexion](https://www.myffbad.fr/connexion)
 
 Des bénévoles du club sont présents régulièrement sur les créneaux.
 
