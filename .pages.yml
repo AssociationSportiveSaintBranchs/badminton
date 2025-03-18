@@ -24,6 +24,18 @@ content:
       - name: body
         label: Body
         type: rich-text
+  - name: subscribe
+    label: Les inscriptions
+    path: subscribe.md
+    type: file
+    fields:
+      - name: title
+        label: Titre de la page
+        type: string
+      - name: permalink
+        label: Lien de la page
+        type: string
+        pattern: ^\/?[a-zA-Z0-9.-]$
   - name: config
     label: Jekyll config
     path: _config.yml
