@@ -42,11 +42,10 @@ collections:
     output: true
     permalink: /:collection/:name
 
-site:
-  future: true
-  category:
-    - event
-    - post
+future: true
+category:
+  - event
+  - post
 
 # Exclude from processing.
 # The following items will not be processed, by default.
