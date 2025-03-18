@@ -36,6 +36,9 @@ content:
         label: Lien de la page
         type: string
         pattern: ^\/?[a-zA-Z0-9.-]$
+      - name: body
+        label: Body
+        type: rich-text
   - name: config
     label: Jekyll config
     path: _config.yml
