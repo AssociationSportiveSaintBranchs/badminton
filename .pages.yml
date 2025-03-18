@@ -13,6 +13,7 @@ content:
         default: true
       - name: layout
         type: string
+        label: Layout (Ne pas toucher sauf si vous savez ce que vous faites!)
         default: post
       - name: date
         label: Date
