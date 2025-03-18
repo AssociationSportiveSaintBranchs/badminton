@@ -32,7 +32,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-#  - Tarifs et inscriptions
 header_pages:
   - presentation.md
   - pricesAndSubscription.md
