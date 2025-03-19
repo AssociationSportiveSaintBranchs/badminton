@@ -10,6 +10,8 @@ layout: page
 
 Pour les enfants qui font des tournois (RDJ ou TDJ) les inscriptions sont prises en charge par le club !
 
+Qu’est ce qu’un TDJ (Tournoi de jeunes – de 11 à 17 ans) ou RDJ (Rencontre des jeunes – moins de 11 ans) => TDJ/RDJ mettre le site du Comité pour avoir le planning à l'année des compétitions jeunes et le mettre également pour les adultes pour les compétitions départementales.
+
 Séances d'essai (adultes ou enfants) : Il est possible de faire 3 séances d'essai.
 
 Les volants en plastiques sont fournis sur les créneaux et nous possédons quelques raquettes de prêt lors des séances d'essai.
@@ -29,5 +31,3 @@ N 'hésitez pas à faire appel à eux en cas de difficulté avec l'outil prise d
 Règlement intérieur à insérer
 
 Photos du T shirt de l’AS Badminton St Branchs
-
-Qu’est ce qu’un TDJ (Tournoi de jeunes – de 11 à 17 ans) ou RDJ (Rencontre des jeunes – moins de 11 ans) => TDJ/RDJ mettre le site du Comité pour avoir le planning à l'année des compétitions jeunes et le mettre également pour les adultes pour les compétitions départementales.
