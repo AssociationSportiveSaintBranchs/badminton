@@ -21,3 +21,5 @@ Vice-Président : Florian Roulet
 Trésorier : Vivien Le Gal
 
 Secrétaire : Blandine Hue
+
+Membres : Aexandra Moreau, Sonia Sarreste, Pierre Granger, Julien Petit, Thomas Sarcelle, Olivier Gandon , Vincent Hue.
