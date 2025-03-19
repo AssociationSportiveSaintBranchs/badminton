@@ -4,9 +4,9 @@ layout: page
 ---
 # Tarifs
 
-\- Adultes : 100 €/an
+\- Adultes : 100 €/an Jeu libre
 
-\- Enfants (-18 ans) : 110 €
+\- Enfants (-18 ans) : 110 € avec entraineur
 
 Pour les enfants qui font des tournois (RDJ ou TDJ) les inscriptions sont prises en charge par le club !
 
