@@ -2,31 +2,74 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<!-- HERO -->
+<section class="hero">
+  <div class="hero-inner">
+    <div class="hero-badge">Club de Badminton · Saint-Branchs</div>
+    <h1>Bienvenue à l'<span>A.S.S.B.</span><br>Badminton</h1>
+    <p class="hero-desc">
+      Fondé en 2005 et affilié à la Fédération Française de Badminton, notre club accueille
+      compétiteurs et pratiquants loisirs dès 6 ans, dans un esprit de convivialité et d'entraide.
+    </p>
+    <div class="hero-actions">
+      <a href="{{ '/pricesAndSubscription' | relative_url }}" class="btn btn-primary">Nous rejoindre</a>
+      <a href="{{ '/presentation' | relative_url }}" class="btn btn-outline">Le club</a>
+    </div>
+  </div>
+</section>
 
-  {{ content }}
+<!-- INFO CARDS -->
+<section class="info-cards">
+  <div class="cards-grid">
 
-  <h2 class="post-list-heading">Les dernières nouvelles</h2>
+    <div class="info-card">
+      <div class="card-icon">🕐</div>
+      <h3>Créneaux d'entraînement</h3>
+      <p>5 créneaux par semaine sur 2 gymnases, pour tous les niveaux, adultes et jeunes dès 6 ans.</p>
+      <a href="{{ '/presentation' | relative_url }}" class="card-link">En savoir plus</a>
+    </div>
+
+    <div class="info-card">
+      <div class="card-icon">💰</div>
+      <h3>Tarifs saison</h3>
+      <p>Adultes à partir de 100 €/an · Enfants (avec coach) 110 €/an. 3 séances d'essai possibles.</p>
+      <a href="{{ '/pricesAndSubscription' | relative_url }}" class="card-link">Voir les tarifs</a>
+    </div>
+
+    <div class="info-card">
+      <div class="card-icon">🏆</div>
+      <h3>Compétitions</h3>
+      <p>Plusieurs équipes adultes en interclubs. Jeunes engagés en TDJ et RDJ avec de très bons résultats.</p>
+      <a href="{{ '/événements/' | relative_url }}" class="card-link">Voir les événements</a>
+    </div>
+
+  </div>
+</section>
+
+<!-- NEWS -->
+<section class="news-section">
+  <div class="section-header">
+    <h2>Dernières nouvelles</h2>
+    <a href="{{ '/événements/' | relative_url }}" class="btn btn-blue" style="font-size:0.85rem;padding:0.5rem 1.1rem;">Tous les événements</a>
+  </div>
 
   {%- if site.posts.size > 0 -%}
-  <ul class="post-list">
-    {%- for post in site.posts -%}
-    <li>
+  <div class="news-grid">
+    {%- for post in site.posts limit:6 -%}
+    <div class="news-card">
       {%- assign date_format = site.minima.date_format | default: "%d/%m/%Y" -%}
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-      {%- endif -%}
-    </li>
+      <div class="news-card-date">{{ post.date | date: date_format }}</div>
+      <div class="news-card-body">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+        {%- if post.excerpt -%}
+          <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+        {%- endif -%}
+        <a href="{{ post.url | relative_url }}" class="news-card-link">Lire la suite</a>
+      </div>
+    </div>
     {%- endfor -%}
-  </ul>
+  </div>
+  {%- else -%}
+    <p class="no-news">Aucune actualité pour le moment. Revenez bientôt !</p>
   {%- endif -%}
-</div>
+</section>
