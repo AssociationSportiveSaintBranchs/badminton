@@ -1,0 +1,39 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div>
+      <h4>A.S.S.B. Badminton</h4>
+      <p>Section Badminton de l'Association Sportive de Saint-Branchs.</p>
+      <p>Affilié à la <a href="https://myffbad.fr/club/2800" target="_blank" rel="noopener">Fédération Française de Badminton</a>.</p>
+    </div>
+
+    <div>
+      <h4>Navigation</h4>
+      <ul>
+        <li><a href="{{ '/' | relative_url }}">Accueil</a></li>
+        {%- for path in site.header_pages -%}
+          {%- assign my_page = site.pages | where: "path", path | first -%}
+          {%- if my_page.title -%}
+            <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+          {%- endif -%}
+        {%- endfor -%}
+      </ul>
+    </div>
+
+    <div>
+      <h4>Contact</h4>
+      <ul>
+        {%- if site.email -%}
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        {%- endif -%}
+        {%- if site.facebook_username -%}
+          <li><a href="https://www.facebook.com/{{ site.facebook_username }}" target="_blank" rel="noopener">Facebook du club</a></li>
+        {%- endif -%}
+        <li><a href="https://www.badminton37.org/" target="_blank" rel="noopener">Comité Départemental 37</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    &copy; {{ site.time | date: "%Y" }} A.S.S.B. Badminton — Saint-Branchs
+  </div>
+</footer>
