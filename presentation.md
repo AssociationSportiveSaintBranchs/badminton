@@ -26,4 +26,4 @@ Secrétaire : Sonia Sarreste
 
 Secrétaire Adjointe : Séverine Marx
 
-Membres du bureau : Manuella Legret, Olivier Gandon, Pierre Granger, Frédéric Perroit, Damien Riclet, .
+Membres du bureau : Manuella Legret, Olivier Gandon, Pierre Granger, Frédéric Perroit, Damien Riclet.
