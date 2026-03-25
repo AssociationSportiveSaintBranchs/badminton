@@ -14,7 +14,7 @@ En 2014, l'affiliation a lieu pour participer aux tournois jeunes(TDJ/RDJ), tour
 
 En 2025, Quentin Perroit prend la suite de Damien sur les entrainements des jeunes et nous mettons en place un entrainement adulte à chaque vacance lorsque cela est possible.
 
-# le bureau
+# Le bureau
 
 Présidente : Anne Perroit
 
