@@ -14,11 +14,11 @@ Qu’est ce qu’un TDJ (Tournoi de jeunes – de 11 à 17 ans) ou RDJ (Rencontr
 
 Séances d'essai (adultes ou enfants) : Il est possible de faire 3 séances d'essai.
 
-Les volants en plastiques sont fournis sur les créneaux et nous possédons quelques raquettes de prêt lors des séances d'essai.
+Les volants en plastiques sont fournis sur les créneaux et nous possédons quelques raquettes de prêt lors des séances d'essai.
 
 # Inscriptions
 
-Modes de paiement : Carte bancaire sur le site Poona ; Chèque bancaire ; Espèces (à remettre au dirigeant) ; Dispositifs pass sport ou Yep’s
+Modes de paiement : Carte bancaire sur le site Poona ; Chèque bancaire ; Espèces (à remettre au dirigeant) ; Dispositifs pass-sport ou Yep’s
 
 Pour les nouveaux adhérents : [https://adherer.myffbad.fr/ASSB37](https://adherer.myffbad.fr/ASSB37)
 
@@ -26,8 +26,7 @@ Pour les renouvellements d’adhésion : Connectez-vous sur [https://www.myffbad
 
 Des bénévoles du club sont présents régulièrement sur les créneaux.
 
-N 'hésitez pas à faire appel à eux en cas de difficulté avec l'outil prise de licence ou pour toute autre question relative au club.
+N'hésitez pas à faire appel à eux en cas de difficulté avec l'outil prise de licence ou pour toute autre question relative au club.
 
-Règlement intérieur à insérer
+[Règlement intérieur](https://drive.google.com/file/d/1MayxcfbbgBfQXhYHGgUSFDBdptvHxogm/view)
 
-Photos du T shirt de l’AS Badminton St Branchs

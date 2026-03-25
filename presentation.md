@@ -12,14 +12,18 @@ En 2004, la section se créée avec 2 créneaux adultes puis des créneaux jeune
 
 En 2014, l'affiliation a lieu pour participer aux tournois jeunes(TDJ/RDJ), tournois adultes et interclubs. L'arrivée de Damien Dholandre, entraineur, à cette époque a permis d'évoluer, progresser avec presque une centaine d'adhérents.
 
+En 2025, Quentin Perroit prend la suite de Damien sur les entrainements des jeunes et nous mettons en place un entrainement adulte à chaque vacance lorsque cela est possible.
+
 # le bureau
 
 Présidente : Anne Perroit
 
 Vice-Président : Florian Roulet
 
-Trésorier : Vivien Le Gal
+Trésorier : Alexandra Allouard
 
-Secrétaire : Blandine Hue
+Secrétaire : Sonia Sarreste
 
-Membres : Aexandra Moreau, Sonia Sarreste, Pierre Granger, Julien Petit, Thomas Sarcelle, Olivier Gandon , Vincent Hue.
+Secrétaire Adjointe : Séverine Marx
+
+Membres du bureau : Manuella Legret, Olivier Gandon, Pierre Granger, Frédéric Perroit, Damien Riclet, .
