@@ -39,4 +39,6 @@ Léo serie 2 4ème
 
 Bravo à tous 💪
 
+![](/media/RDJ_photo.jpg)
+
 &nbsp;
