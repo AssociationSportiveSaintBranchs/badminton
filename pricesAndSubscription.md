@@ -26,6 +26,6 @@ Pour les renouvellements d’adhésion : Connectez-vous sur [https://www.myffbad
 
 Des bénévoles du club sont présents régulièrement sur les créneaux.
 
-N'hésitez pas à faire appel à eux en cas de difficulté avec l'outil prise de licence ou pour toute autre question relative au club.
+N'hésitez pas à faire appel à eux en cas de difficulté avec l'outil prise de licence ou pour toute autre question relative au club....
 
 [Règlement intérieur](https://drive.google.com/file/d/1MayxcfbbgBfQXhYHGgUSFDBdptvHxogm/view)
