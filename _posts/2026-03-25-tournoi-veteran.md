@@ -9,7 +9,7 @@ category: event
 
 ![](</media/Tournoi Vétéran.jpeg>)
 
-/C'est parti pour **notre tournoi vétéran** retenez bien la date le **30/31 mai 2026 !!**
+C'est parti pour **notre tournoi vétéran** retenez bien la date le **30/31 mai 2026 !!**
 
 **Samedi DH DD et dimanche DMX.**
 
