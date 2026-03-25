@@ -4,9 +4,9 @@ layout: page
 ---
 # Tarifs
 
-\- Adultes : 100 €/an Jeu libre
+ Adultes : 100 €/an Jeu libre
 
-\- Enfants (-18 ans) : 110 € avec entraineur
+ Enfants (-18 ans) : 110 € avec entraineur
 
 Pour les enfants qui font des tournois (RDJ ou TDJ) les inscriptions sont prises en charge par le club !
 
@@ -26,7 +26,6 @@ Pour les renouvellements d’adhésion : Connectez-vous sur [https://www.myffbad
 
 Des bénévoles du club sont présents régulièrement sur les créneaux.
 
-N'hésitez pas à faire appel à eux en cas de difficulté avec l'outil prise de licence ou pour toute autre question relative au club.
+N'hésitez pas à faire appel à eux en cas de difficulté avec l'outil prise de licence ou pour toute autre question relative au club....
 
 [Règlement intérieur](https://drive.google.com/file/d/1MayxcfbbgBfQXhYHGgUSFDBdptvHxogm/view)
-
