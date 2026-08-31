@@ -2,15 +2,27 @@
 title: Tarifs et inscriptions
 layout: page
 ---
+
+# Les séances d'entraînement
+
+Mineurs, 1h30 par semaine :
+- primaires : le samedi matin de 10h à 11h30.
+- collège lycée : le samedi matin de 11h30 à 13h.
+
+Majeurs :
+- lundi : 20h à 00h (jeu libre et interclub le cas échéant)
+- vendredi : 18h30 à 20h30 (jeu libre)
+
+Familles :
+- pour les familles dont les parents et les enfants sont licenciés au club, il est possible de jouer ensemble le mercredi soir de 17h30 à 20h.
+
 # Tarifs
 
- Adultes : 100 €/an Jeu libre
+Majeurs : 100 €/an. Jeu libre, possibilité de participer aux [interclubs]({{ '/ICD' | relative_url }}) et aux tournois.
 
- Enfants (-18 ans) : 110 € avec entraineur
+Mineurs : 110 € avec encadré par un entraineur.
 
-Pour les enfants qui font des tournois (RDJ ou TDJ) les inscriptions sont prises en charge par le club !
-
-Qu’est ce qu’un TDJ (Tournoi de jeunes – de 11 à 17 ans) ou RDJ (Rencontre des jeunes – moins de 11 ans) => TDJ/RDJ mettre le site du Comité pour avoir le planning à l'année des compétitions jeunes et le mettre également pour les adultes pour les compétitions départementales.
+Pour les enfants qui font des tournois ([RDJ ou TDJ]({{ '/RDJTDJ' | relative_url }})), les inscriptions sont prises en charge par le club !
 
 Séances d'essai (adultes ou enfants) : Il est possible de faire 3 séances d'essai.
 

@@ -1,6 +1,17 @@
-FROM bretfisher/jekyll-serve
-LABEL authors="florian"
+FROM ruby:3.3-slim
+
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /site
+
+COPY Gemfile ./
+RUN bundle install
+
+COPY . .
 
 EXPOSE 4000
+EXPOSE 35729
 
-CMD [ "bundle", "exec", "jekyll", "serve", "--livereload", "--force_polling", "-H", "0.0.0.0", "-P", "4000" ]
+CMD ["bundle", "exec", "jekyll", "serve", "--force_polling", "--host", "0.0.0.0", "--livereload"]

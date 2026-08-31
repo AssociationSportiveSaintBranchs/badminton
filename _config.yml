@@ -35,6 +35,8 @@ plugins:
 header_pages:
   - presentation.md
   - pricesAndSubscription.md
+  - ICD.md
+  - RDJTDJ.md
   - events.md
 
 collections:
