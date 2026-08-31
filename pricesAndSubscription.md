@@ -7,10 +7,10 @@ layout: page
 
 Mineurs, 1h30 par semaine :
 - primaires : le samedi matin de 10h à 11h30.
-- collège lycée : le samedi matin de 11h30 à 13h.
+- collégien(e)s / lycéen(e)s : le samedi matin de 11h30 à 13h.
 
 Majeurs :
-- lundi : 20h à 00h (jeu libre et interclub le cas échéant)
+- lundi : 18h à 00h (jeu libre et interclub le cas échéant)
 - vendredi : 18h à 20h30 (jeu libre)
 
 Familles :
