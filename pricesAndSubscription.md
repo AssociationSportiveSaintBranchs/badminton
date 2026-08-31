@@ -11,7 +11,7 @@ Mineurs, 1h30 par semaine :
 
 Majeurs :
 - lundi : 20h à 00h (jeu libre et interclub le cas échéant)
-- vendredi : 18h30 à 20h30 (jeu libre)
+- vendredi : 18h à 20h30 (jeu libre)
 
 Familles :
 - pour les familles dont les parents et les enfants sont licenciés au club, il est possible de jouer ensemble le mercredi soir de 17h30 à 20h.
