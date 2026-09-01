@@ -21,9 +21,9 @@ Une journée d'interclubs, c'est aussi retrouver ses coéquipiers, encourager le
 
 Et à Saint-Branchs, une rencontre ne serait pas vraiment terminée sans...
 
-# 🍻 La 4ᵉ mi-temps !
+# 🍻 La 3ᵉ mi-temps !
 
-Après les matchs, place à la **4ᵉ mi-temps** !
+Après les matchs, place à la **3ᵉ mi-temps** !
 
 Parce qu'un interclub, c'est aussi l'occasion de se retrouver autour d'un verre, de partager quelques victuailles, de refaire les matchs — et parfois de refaire le monde — avec les joueurs de l'équipe adverse.
 

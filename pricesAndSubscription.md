@@ -20,7 +20,7 @@ Familles :
 
 Majeurs : 100 €/an. Jeu libre, possibilité de participer aux [interclubs]({{ '/ICD' | relative_url }}) et aux tournois.
 
-Mineurs : 110 € avec encadré par un entraineur.
+Mineurs : 110 € encadré par un entraineur.
 
 Pour les enfants qui font des tournois ([RDJ ou TDJ]({{ '/RDJTDJ' | relative_url }})), les inscriptions sont prises en charge par le club !
 

@@ -6,7 +6,7 @@ layout: home
 title: Bienvenue à la section Badminton de l'A.S. Saint Branchs
 ---
 
-Créé en 2005 et [affilié à la Fédération Française de Badminton](https://myffbad.fr/club/2800), notre club met tout en œuvre pour promouvoir le badminton (tant au niveau local que départemental) et développer la pratique de ce sport en loisir et en compétition, pour les jeunes comme pour les adultes, en toute convivialité et dans un esprit d’entraide.
+Créé en 2004 et [affilié à la Fédération Française de Badminton](https://myffbad.fr/club/2800), notre club met tout en œuvre pour promouvoir le badminton (tant au niveau local que départemental) et développer la pratique de ce sport en loisir et en compétition, pour les jeunes comme pour les adultes, en toute convivialité et dans un esprit d’entraide.
 
 Compétiteurs, pratiquants occasionnels et/ou en loisirs, nous accueillons tout public à partir de 6 ans. Avec cinq créneaux horaires d’entraînements par semaine, et deux gymnases, chacun pourra trouver le moment idéal pour s’adonner à son sport favori.
 
